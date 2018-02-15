@@ -3,12 +3,12 @@ Contains a light colorscheme for Vim called 'fruchtig' ('fruity') based on '[sum
 
 Add `set termguicolors` in your .vimrc to make it work in terminal.
 
-### Vim script example (with closed folds):
+### Vim script example with closed folds and window split:
 
 ![Vim script](/fruchtig_vim.png)
 
 ### ConTeXt file example:
 
-![ConTeXt](/fruchtig_context.png)
+![ConTeXt](/fruchtig_ctx.png)
 
 Text set in Monaco.
